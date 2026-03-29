@@ -6,7 +6,7 @@ This project demonstrates security testing of a sample web application to identi
 
 SQL Injection (SQLi)
 Cross-Site Scripting (XSS)
-Authentication & Authorization Flaws
+Authentication & Authorization Flaws 
 
 The goal is to understand real-world web vulnerabilities, practice ethical hacking, and learn how attackers exploit weak implementations—while following responsible disclosure principles.
 
